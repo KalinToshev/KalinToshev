@@ -10,6 +10,6 @@ In addition to my professional experience, I have been building web pages with H
 
 I am always eager to learn and grow in the world of programming, and I look forward to contributing to innovative projects and making a meaningful impact.
 
-- 📫 How to reach me: kalin.toshev84@gmail.com
+-  How to reach me: kalin.toshev84@gmail.com | +359-88-248-9370
 -  My LinkedIn: www.linkedin.com/in/калин-тошев
 
