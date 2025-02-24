@@ -1,4 +1,4 @@
-Hello, I'm Kalin, an 29-year-old passionate programmer from Oryahovo, Bulgaria (now living in Sofia, Bulgaria). With 3 years of experience in the world of programming, I have developed a deep love for this field. I have now completed the entire SoftUni track with the Java language.
+Hello, I'm Kalin, an 20-year-old passionate programmer from Oryahovo, Bulgaria (now living in Sofia, Bulgaria). With 3 years of experience in the world of programming, I have developed a deep love for this field. I have now completed the entire SoftUni track with the Java language.
 
 My expertise lies in Java, and I have hands-on experience with various frameworks and technologies, including Spring (Spring MVC, Spring Boot, Spring Security). I am also proficient in HTML/CSS and have a solid foundation in Vanilla JavaScript.
 
