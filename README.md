@@ -11,5 +11,5 @@ In addition to my professional experience, I have been building web pages with H
 I am always eager to learn and grow in the world of programming, and I look forward to contributing to innovative projects and making a meaningful impact.
 
 -  How to reach me: kalin.toshev84@gmail.com
--  My LinkedIn: www.linkedin.com/in/калин-тошев
+-  My LinkedIn: www.linkedin.com/in/kalintoshev
 
